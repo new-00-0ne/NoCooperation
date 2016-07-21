@@ -1,0 +1,32 @@
+xxxxxxx  xxxxxx  xxxxxx  xxxxxxx
+x                 s            x
+x    e                         x
+x               P         t    x
+x              PpP             x
+x             PpppP            x
+x            PpppppP           x
+            PpppppppP           
+           PpppppppppP          
+x         Pppppp               x
+x        Ppppppp PPPPPPP       x
+x       Pppppppp pppppppP      x
+x      Ppppppppp ppppppppP     x
+x     Pppppppppp pppppppppP    x
+x    Ppppppppppp ppppppppppP   x
+               s                
+                                
+x         111111111111         x
+x          1111111111          x
+x           11111111           x
+x            111111            x
+x             1111             x
+x              11              x
+                                
+                                
+x                              x
+x                              x
+x                        2     x
+x    2     e                   x
+x                  s           x
+x                              x
+xxxxxxx  xxxxxx  xxxxxx  xxxxxxx

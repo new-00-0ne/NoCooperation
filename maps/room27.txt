@@ -1,0 +1,32 @@
+xxxxxxx  xxxxxx  xxxxxx  xxxxxxx
+x            x       x         x
+x      c     x       x         x
+x            x       x         x
+x   xxxxxxx  x       x    s    x
+x   x                xx        x
+x   x                 x        x
+    x         e       x         
+    x                 x         
+x   x                 xxxxx    x
+x   x   t        s        x    x
+x   x                   c x    x
+x  xxx                    x    x
+x  x x                    x    x
+x    x             xxxxxxxx    x
+     x                          
+     x                          
+x    x                x        x
+x    xxxxx  xxxx      x        x
+x              x      x        x
+x              x      x        x
+x       s      x      x  e     x
+x              x      x        x
+      P        x     xxxxxxx    
+               x     x     x    
+x     xxxxxxxxxx     x  x  x   x
+x              x     x  x  x   x
+x              x   e x  x  x   x
+x    P         x     x  x  x s x
+x              xxxxxxx  x  x   x
+x                              x
+xxxxxxx  xxxxxx  xxxxxx  xxxxxxx

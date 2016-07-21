@@ -1,0 +1,32 @@
+xxxxxxx  xxxxxx  xxxxxx  xxxxxxx
+xP                            Px
+xp            s      e        px
+xp                            px
+xp  xxxxxxxxxxxxxxxxxxxxxxxx  px
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+    xxxxxxxxxxxxxxxxxxxxxxxx    
+    xxxxxxxxxxxxxxxxxxxxxxxx    
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+    xxxxxxxxxxxxxxxxxxxxxxxx    
+    xxxxxxxxxxxxxxxxxxxxxxxx    
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+    xxxxxxxxxxxxxxxxxxxxxxxx    
+    xxxxxxxxxxxxxxxxxxxxxxxx    
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x   xxxxxxxxxxxxxxxxxxxxxxxx   x
+x             s     e          x
+x                              x
+xxxxxxx  xxxxxx  xxxxxx  xxxxxxx

@@ -1,0 +1,32 @@
+xxxxxxx  xxxxxx  xxxxxx  xxxxxxx
+x     P  P    P  P    P  P     x
+x  c  p  p    p  p s  p  p  m  x
+x     p  p    p  p    p  p     x
+x     p  p    p  p    pt p     x
+x     p  p    p  p    p  p     x
+x     p  p    p  p    p  p     x
+       11              11       
+       11      t       11       
+x     P  P    P  P    P  P     x
+x     p  p    p  p    p  p     x
+x     p  p    p  p    p  p     x
+x     p  p    p  p    p  p     x
+x     p  p    p  p    p  p     x
+x     p  p    p  p    p  p     x
+               11         e     
+               11               
+x     P  P    P  P    P  P     x
+x     p  p    p  p    p  p     x
+x     p  p    p  p    p  p     x
+x     p  p    p  p    p  p     x
+x     p  p    p  p    p  p  t  x
+x     p  p    p  p    p  p     x
+       11      e       11       
+ t     11          c   11       
+x     P  P    P  P    P  P     x
+x     p  p    p  p    p  p     x
+x     p  p    p  p    p  p     x
+x     p  p    p  p    p  p     x
+x     p  p    p  p  m p  p     x
+xe    pt p    p  p    p  p     x
+xxxxxxx  xxxxxx  xxxxxx  xxxxxxx

@@ -1,0 +1,32 @@
+xxxxxxx  xxxxxx  xxxxxx  xxxxxxx
+x                              x
+x                              x
+x      s                       x
+x                              x
+x                              x
+x                              x
+            xx                  
+            xx                  
+x           xx       PPPPP     x
+x           xx       ppppp     x
+x           xx       ppppp     x
+x           xx                 x
+x                              x
+x                              x
+            xx  22              
+            xx  22              
+x           xx  222222         x
+x           xx  222222         x
+x           xx      22         x
+x    e      xx      22         x
+x                   22         x
+x                   22         x
+            xx    2222          
+            xx    2222          
+x           xx    22           x
+x           xx    22           x
+x           xx    22           x
+x    e      xx                 x
+x                     s        x
+x                              x
+xxxxxxx  xxxxxx  xxxxxx  xxxxxxx

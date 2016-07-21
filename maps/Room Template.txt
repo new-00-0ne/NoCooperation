@@ -1,0 +1,44 @@
+xxxxxxx  xxxxxx  xxxxxx  xxxxxxx
+x                              x
+x                              x
+x                              x
+x                              x
+x                              x
+x                              x
+                                
+                                
+x                              x
+x                              x
+x                              x
+x                              x
+x                              x
+x                              x
+                                
+                                
+x                              x
+x                              x
+x                              x
+x                              x
+x                              x
+x                              x
+                                
+                                
+x                              x
+x                              x
+x                              x
+x                              x
+x                              x
+x                              x
+xxxxxxx  xxxxxx  xxxxxx  xxxxxxx
+
+key:
+c = chest
+e = enemies
+m = mimic chest
+p = pressure plate
+s = possible player spawn point
+b = boulder
+traps:
+	0 = pit
+	1 = spike
+	2 = lava pit

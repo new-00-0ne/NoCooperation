@@ -1,0 +1,32 @@
+xxxxxxx  xxxxxx  xxxxxx  xxxxxxx
+x                              x
+x PPPPPPPPPPPPP  PPPPPPPPPPPPP x
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+  ppppppppppppp  ppppppppppppp  
+  ppppppppppppp  ppppppppppppp  
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+                                
+                                
+x PPPPPPPPPPPPP  PPPPPPPPPPPPP x
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+  ppppppppppppp  ppppppppppppp  
+  ppppppppppppp  ppppppppppppp  
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+x ppppppppppppp  ppppppppppppp x
+x                              x
+xxxxxxx  xxxxxx  xxxxxx  xxxxxxx
